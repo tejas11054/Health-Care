@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116535440158",
+    "project_id": "e-vaccination-5bd28",
+    "storage_bucket": "e-vaccination-5bd28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116535440158:android:10f2b3aaa9147675b5cf0f",
+        "android_client_info": {
+          "package_name": "com.ensias.healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116535440158-r4si3a2j7kv2f4kjimv3u3rhivsc28uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-fw7fcspwlrTqYcan2BG0ob0tp0ryjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116535440158-r4si3a2j7kv2f4kjimv3u3rhivsc28uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
